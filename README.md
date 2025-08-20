@@ -40,7 +40,7 @@ A **Star Schema** was designed with:
 - **Fact Table**: Sales & Profit
 - **Dimension Tables**: Date, Customers, Products, Region
 
-![DateModeling](Resources/Data%20Modelling.png)
+![DateModeling](Resources/Data%Modelling.png)
 
 ---
 
