@@ -20,8 +20,6 @@ The dataset contains transactional sales data with fields such as:
 - Product Category
 - Sales, Quantity, Discount, Profit
 
-> _(Dataset used: **Sample Superstore Dataset** – commonly used for BI projects)_
-
 ---
 
 ## ⚙️ Data Cleaning & Preparation
@@ -31,7 +29,7 @@ Data cleaning was performed in **Power Query**:
 - Removed duplicates & null values
 - Corrected data types (dates, numeric fields, categorical fields)
 
-![PowerQuery](Resources/Power_Query_Customer%201.png)
+![PowerQuery](Resources/Power_Query_Customer.png)
 
 ---
 
