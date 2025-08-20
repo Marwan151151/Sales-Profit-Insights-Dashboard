@@ -1,6 +1,6 @@
 # 📊 Sales & Profit Insights Dashboard
 
-[Dashboard](Resources/Dashboard.gif)
+![Dashboard](Resources/Dashboard.gif)
 
 ## 🎯 Objectives
 
@@ -29,8 +29,6 @@ Data cleaning was performed in **Power Query**:
 - Removed duplicates & null values
 - Corrected data types (dates, numeric fields, categorical fields)
 
-![PowerQuery](Resources/Power_Query_Customer.PNG)
-
 ---
 
 ## 🔗 Data Modeling
@@ -39,8 +37,6 @@ A **Star Schema** was designed with:
 
 - **Fact Table**: Sales & Profit
 - **Dimension Tables**: Date, Customers, Products, Region
-
-![DateModeling](Resources/Data_Modeling.PNG)
 
 ---
 
