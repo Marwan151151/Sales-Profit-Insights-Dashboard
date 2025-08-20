@@ -29,7 +29,7 @@ Data cleaning was performed in **Power Query**:
 - Removed duplicates & null values
 - Corrected data types (dates, numeric fields, categorical fields)
 
----
+## ![PowerQuery](Resources/Power_Query_Customer.PNG)
 
 ## 🔗 Data Modeling
 
@@ -37,6 +37,8 @@ A **Star Schema** was designed with:
 
 - **Fact Table**: Sales & Profit
 - **Dimension Tables**: Date, Customers, Products, Region
+
+![DataModeling](Resources/Data_Modeling.PNG)
 
 ---
 
